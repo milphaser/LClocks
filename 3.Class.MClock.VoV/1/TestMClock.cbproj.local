@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.161,D:\PROJECTS\MClock\Unit1.dfm=D:\DIPLOMA PROJECT\SRC_20130215\UnitFormMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,=D:\PROJECTS\MClock\MClock.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,D:\DIPLOMA PROJECT\SRC_20130215\MClock.h=D:\PROJECTS\MClock\MClock.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,D:\PROJECTS\MClock\Unit1.h=C:\Users\User\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,C:\Users\Milen\Documents\GitHub\LClocks\3.Class.MClock.VoV\1\MClock.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,D:\DIPLOMA PROJECT\SRC_20130215\MClock.cpp=D:\PROJECTS\MClock\MClock.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,C:\Users\Milen\Documents\GitHub\LClocks\3.Class.MClock.VoV\1\VClock.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,D:\PROJECTS\MClock\Unit1.dfm=C:\Users\User\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,D:\PROJECTS\MClock\Unit1.h=D:\DIPLOMA PROJECT\SRC_20130215\UnitFormMain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,=C:\Users\Milen\Documents\GitHub\LClocks\3.Class.MClock.VoV\1\VClock.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,D:\DIPLOMA PROJECT\SRC_20130215\TestMClock.cbproj=D:\PROJECTS\MClock\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,D:\PROJECTS\MClock\Unit1.cpp=C:\Users\User\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,D:\PROJECTS\MClock\Unit1.cpp=D:\DIPLOMA PROJECT\SRC_20130215\UnitFormMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=C:\Users\User\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,=C:\Users\Milen\Documents\GitHub\LClocks\3.Class.MClock.VoV\1\MClock.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,D:\PROJECTS\MClock\Project1.cbproj=C:\Users\User\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,=D:\DIPLOMA PROJECT\SRC_20130215\TestMClock.2\VClock.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="TestMClock.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.dfm"/>
+    <File Path="UnitFormMain.h"/>
+    <File Path="VClock.h"/>
+    <File Path="MClock.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

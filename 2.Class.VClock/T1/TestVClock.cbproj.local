@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.854,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.VClock\XE3\UnitFormMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.253,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,C:\Users\Milen\Documents\GitHub\LClocks\2.Class.VClock\T2\TestVClockPCH1.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.VClock\XE3\TestVClockPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.113,=C:\Users\Milen\Documents\GitHub\LClocks\2.Class.VClock\T2\VClock.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,C:\Users\Milen\Documents\GitHub\LClocks\2.Class.VClock\T2\VClock.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.028,=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.VClock\XE3\VClock.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.h=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.VClock\XE3\UnitFormMain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.dfm=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.VClock\XE3\UnitFormMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\Milen\Documents\RAD Studio\Projects\Project1.cbproj=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.VClock\XE3\TestVClock.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

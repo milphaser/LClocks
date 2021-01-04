@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.133,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,=C:\Users\Milen\Documents\GitHub\LClocks\1.Class.LClock\T1\LClock.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.364,C:\Users\Milen\Documents\GitHub\LClocks\1.Class.LClock\T1\LClock.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,=C:\Users\Milen\Documents\GitHub\LClocks\1.Class.LClock\T1\LClock.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.LClock\XE3\TestLClockPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.727,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.LClock\XE3\UnitFormMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,C:\Users\Milen\Documents\GitHub\LClocks\1.Class.LClock\T1\TestLClockPCH1.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.727,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.dfm=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.LClock\XE3\UnitFormMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.896,C:\Users\Milen\Documents\RAD Studio\Projects\Project1.cbproj=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.LClock\XE3\TestLClock.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.727,C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.h=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.LClock\XE3\UnitFormMain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,=C:\My_COURSES\DS.CD\CBuilder\__TEST.TEMPLATES\Class.LClock\XE3\LClock.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="TestLClock.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.dfm"/>
+    <File Path="UnitFormMain.h"/>
+    <File Path="LClock.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
