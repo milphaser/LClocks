@@ -1,0 +1,115 @@
+object formChannels: TformChannels
+  Left = 0
+  Top = 0
+  Caption = 'Channels'
+  ClientHeight = 408
+  ClientWidth = 231
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 120
+  TextHeight = 16
+  object ssInChannel: TServerSocket
+    Active = False
+    Port = 0
+    ServerType = stNonBlocking
+    OnClientConnect = ssInChannelClientConnect
+    OnClientDisconnect = ssInChannelClientDisconnect
+    OnClientRead = ssInChannelClientRead
+    OnClientError = ssInChannelClientError
+    Left = 24
+    Top = 174
+  end
+  object csOutChannel8: TClientSocket
+    Active = False
+    ClientType = ctNonBlocking
+    Port = 0
+    OnConnect = csOutChannel1Connect
+    OnDisconnect = csOutChannel1Disconnect
+    OnRead = csOutChannel1Read
+    OnError = csOutChannel1Error
+    Left = 125
+    Top = 345
+  end
+  object csOutChannel7: TClientSocket
+    Active = False
+    ClientType = ctNonBlocking
+    Port = 0
+    OnConnect = csOutChannel1Connect
+    OnDisconnect = csOutChannel1Disconnect
+    OnRead = csOutChannel1Read
+    OnError = csOutChannel1Error
+    Left = 125
+    Top = 298
+  end
+  object csOutChannel6: TClientSocket
+    Active = False
+    ClientType = ctNonBlocking
+    Port = 0
+    OnConnect = csOutChannel1Connect
+    OnDisconnect = csOutChannel1Disconnect
+    OnRead = csOutChannel1Read
+    OnError = csOutChannel1Error
+    Left = 125
+    Top = 248
+  end
+  object csOutChannel5: TClientSocket
+    Active = False
+    ClientType = ctNonBlocking
+    Port = 0
+    OnConnect = csOutChannel1Connect
+    OnDisconnect = csOutChannel1Disconnect
+    OnRead = csOutChannel1Read
+    OnError = csOutChannel1Error
+    Left = 125
+    Top = 202
+  end
+  object csOutChannel4: TClientSocket
+    Active = False
+    ClientType = ctNonBlocking
+    Port = 0
+    OnConnect = csOutChannel1Connect
+    OnDisconnect = csOutChannel1Disconnect
+    OnRead = csOutChannel1Read
+    OnError = csOutChannel1Error
+    Left = 125
+    Top = 153
+  end
+  object csOutChannel3: TClientSocket
+    Active = False
+    ClientType = ctNonBlocking
+    Port = 0
+    OnConnect = csOutChannel1Connect
+    OnDisconnect = csOutChannel1Disconnect
+    OnRead = csOutChannel1Read
+    OnError = csOutChannel1Error
+    Left = 125
+    Top = 104
+  end
+  object csOutChannel2: TClientSocket
+    Active = False
+    ClientType = ctNonBlocking
+    Port = 0
+    OnConnect = csOutChannel1Connect
+    OnDisconnect = csOutChannel1Disconnect
+    OnRead = csOutChannel1Read
+    OnError = csOutChannel1Error
+    Left = 125
+    Top = 56
+  end
+  object csOutChannel1: TClientSocket
+    Active = False
+    ClientType = ctNonBlocking
+    Port = 0
+    OnConnect = csOutChannel1Connect
+    OnDisconnect = csOutChannel1Disconnect
+    OnRead = csOutChannel1Read
+    OnError = csOutChannel1Error
+    Left = 125
+    Top = 9
+  end
+end

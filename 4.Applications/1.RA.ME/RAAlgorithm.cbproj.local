@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.326,C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\UnitFormChannels.h=C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\UnitFormChannels.dfm=C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.727,=C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\RAAlgorithmPCH1.h=C:\Users\Milen\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\UnitFormMain.h=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.536,=C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\LClock.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\UnitFormMain.cpp=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\UnitFormChannels.cpp=C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\RAAlgorithm.cbproj=C:\Users\Milen\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\My_COURSES\DS.CD\CBuilder\Test7.RA.ME_RELEASE\XE3\RELEASE\UnitFormMain.dfm=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\Milen\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.01.05 12:08:09.067,C:\Users\Milen\Documents\GitHub\LClocks\4.Applications\1.RA.ME\LClock.cpp=</Transaction>
+    <Transaction>2021.01.05 12:08:17.656,C:\Users\Milen\Documents\GitHub\LClocks\4.Applications\1.RA.ME\RAAlgorithmPCH1.h=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="RAAlgorithm.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.dfm"/>
+    <File Path="UnitFormMain.h"/>
+    <File Path="UnitFormChannels.cpp"/>
+    <File Path="UnitFormChannels.cpp"/>
+    <File Path="UnitFormChannels.dfm"/>
+    <File Path="UnitFormChannels.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
