@@ -11,3 +11,7 @@
  The test examples to each library use:
  - IDE: Embarcadero C++ Builder 10.4.2
  - Platform: Windows/IA-32 & Intel64
+
+Sample applications in folder 4.Applications
+- 1.RA.ME, Ricart-Agrawala Algorithm for distributed mutual exclusion (LClock.h);
+- ...
